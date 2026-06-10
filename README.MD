@@ -8,11 +8,11 @@ All settings are controlled via a `settings.ini` file — no Python knowledge re
 ## Screenshots
 
 > Sidebar navigation on the left, settings on the right, Matugen color scheme applied automatically.
-![Autostart](assets/Autostart.png)
-![Keybindings](assets/Keybindings.png)
-![General settings](assets/General.png)
-![Variables](assets/Variables.png)
-![Windowrules](assets/Windowrules.png)
+![Autostart](assets/Autostart_en.png)
+![Keybindings](assets/Keybindings_en.png)
+![General settings](assets/General_en.png)
+![Variables](assets/Variables_en.png)
+![Windowrules](assets/Windowrules_en.png)
 ---
 
 ## Requirements

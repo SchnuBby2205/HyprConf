@@ -8,11 +8,11 @@ Alle Einstellungen werden über eine `settings.ini` gesteuert – kein Python-Ke
 ## Screenshots
 
 > Sidebar-Navigation links, Einstellungen rechts, Matugen-Farbschema automatisch übernommen.
-![Autostart](assets/Autostart.png)
-![Keybindings](assets/Keybindings.png)
-![General settings](assets/General.png)
-![Variables](assets/Variables.png)
-![Windowrules](assets/Windowrules.png)
+![Autostart](assets/Autostart_de.png)
+![Keybindings](assets/Keybindings_de.png)
+![General settings](assets/General_de.png)
+![Variables](assets/Variables_de.png)
+![Windowrules](assets/Windowrules_de.png)
 ---
 
 ## Voraussetzungen
