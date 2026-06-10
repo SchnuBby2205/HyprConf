@@ -45,6 +45,19 @@ chmod +x settings_mask.py
 
 ---
 
+## Lokalisierung
+
+Das Tool lässt sich komplett in jede Sprache übersetzten. Es muss einfach nur eine Sprachdatei im i18n Verzeichnis angelegt werden, und die settings.ini muss übersetzt werden.
+
+Das Tool sollte die Sprache automatisch erkennen. Sollte dies nicht der Fall sein, kann das Tool mit folgenden Befehlen in der gewünschten Sprache gestartet werden:
+
+```bash
+./settings_mask.py settings.ini --lang de
+./settings_mask.py settings.ini --lang en
+```
+
+---
+
 ## Was macht das Tool?
 
 `settings_mask` ist eine grafische Oberfläche für Hyprland-Lua-Konfigurationsdateien.  
