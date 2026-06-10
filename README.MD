@@ -45,6 +45,19 @@ Edit `settings.ini` to point to your own Hyprland config files, then run:
 
 ---
 
+## Localization
+
+The tool is completly localizable in any language. Just create a new localization in the i18n folder, and localize your settings.ini.
+
+The tool should automatically use your localization. If it will not pick up your localization just start it with:
+
+```bash
+./settings_mask.py settings.ini --lang de
+./settings_mask.py settings.ini --lang en
+```
+
+---
+
 ## What does it do?
 
 `settings_mask` is a graphical interface for Hyprland Lua configuration files.  
